@@ -25,3 +25,29 @@ This experiment showed that:
 
 ## Results
 - model link :- https://teachablemachine.withgoogle.com/models/[...]
+
+=> Day 08
+## Building AI Systems
+Data Collection: Gather raw input (text, images, sensor data, etc.).
+Preprocessing: Clean and transform data (handle missing values, normalize, encode).
+Model Selection: Choose algorithms (e.g., decision trees, transformers, CNNs).
+Training: Feed data into the model, optimize weights using loss functions.
+Feature Engineering: Create or select meaningful variables to boost performance.
+
+## Deployment
+Integration: Embed the trained model into apps, APIs, or services.
+Infrastructure: Use cloud platforms (AWS, Azure, GCP) or edge devices.
+Scalability: Ensure the system can handle large volumes of requests.
+Monitoring Hooks: Track usage, latency, and errors in real time.
+
+## Evaluation
+Metrics: Accuracy, precision, recall, F1-score, RMSE, etc.
+Validation: Test on unseen data (train/test split, cross-validation).
+Fairness & Bias Checks: Ensure outputs don’t discriminate.
+Robustness: Test against noisy, adversarial, or unexpected inputs.
+
+## Improvement
+Feedback Loops: Collect user interactions and retrain with fresh data.
+Error Analysis: Identify failure cases and refine preprocessing or features.
+Model Updates: Swap in newer architectures or fine-tune parameters.
+Continuous Learning: Use pipelines that automatically adapt to new data.
